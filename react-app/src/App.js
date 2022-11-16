@@ -30,7 +30,6 @@ function App() {
       {/* Contact */}
       <h1 className='Contact'>Let us send you a sample!<br/>Contact <span className='Accent-Color'>packaging@pureshenandoah.com</span> to speak directly with our team.</h1>
 
-
       {/* Icons */}
       <h1 className='Icon-Header'>One Product, One Ingredient</h1>
       <div className='Icon-Container'>
