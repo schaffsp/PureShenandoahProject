@@ -1,0 +1,24 @@
+.NavBar-Container {
+    height: 15vh;
+    background-color: #3B6D6E;
+    display: flex;
+}
+
+.NavBar-Logo {
+    padding: 5px;
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    vertical-align: center;
+}
+
+.NavBar-Text {
+    padding: 5px;
+    flex: 5;
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    align-items: center;
+    cursor: pointer;
+}
